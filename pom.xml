@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.netology.javaqa</groupId>
-    <artifactId>javaqamvn</artifactId>
+    <artifactId>Project</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -64,7 +64,7 @@
                                 <rule>
                                     <limits>
                                         <limit>
-                                            <counter>LINE</counter>
+                                            <counter>BRANCH</counter>
                                             <value>COVEREDRATIO</value>
                                             <minimum>100%</minimum>
                                         </limit>
